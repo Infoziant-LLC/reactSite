@@ -41,6 +41,7 @@
 .ribbon-item img {
   width: auto;
   height: 60px; /* Consistent image height */
+  margin-right:30px;
   object-fit: contain;
   display: block;
 }
@@ -98,6 +99,7 @@
 
   .ribbon-item img {
     height: 50px;
+    margin-right:5px;
   }
 
   .partnership h1 {
