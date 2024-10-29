@@ -10,6 +10,7 @@ import Footer from "./Footer";
 import WhyInfoziant from "./WhyInfoziant";
 import Partnership from "./Partnership";
 import InquiryForm from "./InquiryForm";
+import Awardsection from "./Awardsection";
 
 export default function HomeBanner() {
   // intersection observer start
@@ -320,7 +321,9 @@ export default function HomeBanner() {
       <Partnership/>
 
       <Services />
-     
+
+      <Awardsection/>
+      
       <TestimonialSlider />
 
       {/* <HomeVideo/> */}
